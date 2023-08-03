@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saulocmf
 - 👀 I’m interested in geomatics(GIS), renewable energy, environment, climbing, hiking, geopolitics, traveling and forró dancing
-- 🌱 I’m currently learning Python, R, Leaflet, Openlayers and FME
+- 🌱 I’m currently learning Javascript, Python, R, Leaflet, Openlayers, Mapbox/ Maplibre
 - 💞️ I’m looking to collaborate on GIS projects
 - 📫 How to reach me: saulocmf@gmail.com
 
